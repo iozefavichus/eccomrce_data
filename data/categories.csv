@@ -1,0 +1,7 @@
+key,externalId,name.de,slug.de,name.en,slug.en,name.it,slug.it,parentId,orderHint,webImageUrl,iosImageUrl
+c1,1,Armchairs,Armchairs,Armchairs,Armchairs,Armchairs,Armchairs,,0.0001,,
+c2,2,Tables,Tables,Tables,Tables,Tables,Tables,,0.0002,,
+c3,3,Beds,Beds,Beds,Beds,Beds,Beds,,0.0003,,
+c4,4,Sofas,Sofas,Sofas,Sofas,Sofas,Sofas,,0.0004,,
+c5,5,Storages,Storages,Storages,Storages,Storages,Storages,,0.0005,,
+c6,6,Lamps,Lamps,Lamps,Lamps,Lamps,Lamps,,0.0006,,
