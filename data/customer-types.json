@@ -12,8 +12,7 @@
       {
         "name": "apnsToken",
         "label": {
-          "en": "apnsToken",
-          "de": "apnsToken"
+          "en": "apnsToken"
         },
         "required": false,
         "type": {
@@ -24,8 +23,7 @@
       {
         "name": "myStore",
         "label": {
-          "en": "myStore",
-          "de": "meinLaden"
+          "en": "myStore"
         },
         "required": false,
         "type": {

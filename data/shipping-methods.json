@@ -2,8 +2,7 @@
     "name": "Standard US",
     "key": "std-US",
     "localizedDescription": {
-        "en":"Delivery in 5-6 working days",
-        "de":"Lieferung in 5-6 Werktagen"
+        "en":"Delivery in 5-6 working days"
     },
     "taxCategory": {
         "typeId": "tax-category",
@@ -36,8 +35,7 @@
     "name": "Express US",
     "key": "express-US",
     "localizedDescription": {
-        "en":"Same day delivery",
-        "de":"Lieferung am selben Tag"
+        "en":"Same day delivery"
     },
     "taxCategory": {
         "typeId": "tax-category",
